@@ -1,4 +1,4 @@
-#!/home/brian2576/projects/fastapi/venv/bin/python3
+#!/home/brian_muriiki/projects/fastapi/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
